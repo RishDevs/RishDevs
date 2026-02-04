@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I’m Rishi
 
-<!--
-**RishDevs/RishDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an MS Computer Science student at the University at Buffalo, focused on building ML models and real-world AI systems that actually ship.
 
-Here are some ideas to get you started:
+⚔️ What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Diving into LLMs, reinforcement learning, AI agents, and generative AI — mostly in Python, with a strong data science and algorithms backbone.
+
+🛠 Tools
+
+Python, Java, C, JavaScript, SQL • NumPy, Pandas, scikit-learn • Git, GCP, VS Code
+
+📫 Reach Me
+
+📧 rishikolluru.work@gmail.com
+
+💼 linkedin.com/in/rishi-kolluru
+
+⭐ Learning in public. Building daily. Chasing big AI goals.
