@@ -14,6 +14,6 @@ Python, Java, C, JavaScript, SQL • NumPy, Pandas, scikit-learn • Git, GCP, V
 
 📧 rishikolluru.work@gmail.com
 
-💼 LinkedIn
+💼 linkedin.com/in/rishi-kolluru
 
-⭐ Learning in public. Building daily. 
+⭐ Learning in public. Building daily.
