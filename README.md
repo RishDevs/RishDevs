@@ -12,7 +12,7 @@ Python, Java, C, JavaScript, SQL • NumPy, Pandas, scikit-learn • Git, GCP, V
 
 📫 Reach Me
 
-📧 rishikolluru.work@gmail.com
+📧 rishdevs.work@gmail.com
 
 💼 linkedin.com/in/rishi-kolluru
 
