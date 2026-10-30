@@ -4,12 +4,6 @@
 
 <img src="assets/in-this-issue.svg" width="100%" alt="In this issue: Ch. 01 LLM Inference Gateway, 12.2× throughput, TTFT 109 s → 150 ms. Ch. 02 Hybrid Search & Ranking, +12.6 nDCG@10 over BM25, −57% query latency. Ch. 03 LLM-to-Small-Model Cascade, −68% LLM calls at teacher-level accuracy. Bonus: 0 OOMs under a 4× long-context burst.">
 
-<p align="center">
-  <a href="https://github.com/RishDevs/llm-inference-gateway"><b>Ch. 01 · Inference Gateway ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/RishDevs/hybrid-search-engine"><b>Ch. 02 · Hybrid Search ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/RishDevs/llm-small-model-cascade"><b>Ch. 03 · Small-Model Cascade ↗</b></a>
-</p>
-
 <img src="assets/contributions.svg" width="100%" alt="Contributions: 158 commits on 25 active days in the last 12 months. Busiest day Oct 30, 2026 with 62 commits (Kacheri Court, built in one hackathon day).">
 
 <img src="assets/back-issues.svg" width="100%" alt="Back issues: 16 more public repos, linked below.">
